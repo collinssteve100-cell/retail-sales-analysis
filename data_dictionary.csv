@@ -1,0 +1,16 @@
+column,description
+order_id,Unique order identifier
+order_date,Date of transaction
+customer_id,Customer identifier
+customer_name,Customer name
+segment,Customer segment
+region,Sales region
+state,State
+category,Product category
+sub_category,Product sub-category
+product_name,Product name
+sales,Sales amount
+quantity,Units sold
+discount,Discount rate
+profit,Profit amount
+shipping_days,Shipping duration in days
