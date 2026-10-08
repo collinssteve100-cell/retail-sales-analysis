@@ -1,0 +1,10 @@
+column,description
+record_id,Unique source record identifier
+transaction_date,Date of the operational transaction
+customer_id,Customer identifier
+region,Operational region
+product_category,Product category
+agent_id,Agent identifier
+status,Operational record status
+sales_amount,Transaction sales amount
+source_kpi_status,Quality-control status or issue flag
